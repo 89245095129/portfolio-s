@@ -1,5 +1,9 @@
 # 🚀 Портфолио FullStack разработчика
+<div align="center">
+🌟 "Код — это поэзия, которую понимают компьютеры и ценят разработчики"
+© Светлана Тюменцева – FullStack Developer
 
+</div> ```
 <div align="center">
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)
